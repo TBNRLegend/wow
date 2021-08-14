@@ -7,12 +7,12 @@ var Feedtime, Lastfeed;
 var bedroomImg, gardenImg, washroomImg;
 
 function preload(){
-  dogimg1 = loadImage("images/Dog.png");
-  dogimg2 = loadImage("images/happy dog.png");
+  dogimg1 = loadImage("Dog.png");
+  dogimg2 = loadImage("happy dog.png");
 
-  bedroomImg = loadImage("images/ BedRoom.png");
-  gardenImg = loadImage("images/ Garden.png");
-  washroomImg = loadImage("images/ Wash Room.png");
+  bedroomImg = loadImage(" BedRoom.png");
+  gardenImg = loadImage(" Garden.png");
+  washroomImg = loadImage(" Wash Room.png");
 
 }
 
